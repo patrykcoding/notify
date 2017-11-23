@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 config_file="$HOME/.notify.conf"
 
